@@ -147,9 +147,9 @@ mount_mirrors() {
 }
 
 # Credits
-ui_print "**************************************"
-ui_print "*   MMT Extended by Zackptg5 @ XDA   *"
-ui_print "**************************************"
+ui_print " "
+ui_print "Unmount OBB Directory by sb-child @ GitHub"
+ui_print "Generated with MMT Extended by Zackptg5 @ XDA"
 ui_print " "
 
 # Check for min/max api version
